@@ -1,0 +1,12 @@
+#wrap{
+  overflow-y :scroll ;
+  max-width: 1200px;
+  height: 420px;
+
+}
+
+thead {
+  display: table-caption;
+  position: relative;
+  transform: translate(0px, 30px);
+}
